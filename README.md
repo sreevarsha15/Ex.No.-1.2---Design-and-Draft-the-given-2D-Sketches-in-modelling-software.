@@ -39,7 +39,6 @@
 
  <img width="546" height="776" alt="Screenshot 2025-09-17 112611" src="https://github.com/user-attachments/assets/8eb05681-687d-4007-a6b0-ddc193c376f9" />
 
- "C:\Users\admin\Pictures\Screenshots\Screenshot 2025-09-17 112611.png"
 
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
