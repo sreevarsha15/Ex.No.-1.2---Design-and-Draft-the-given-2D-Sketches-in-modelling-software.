@@ -37,7 +37,7 @@
 
  ## OUTPUT
 
- <img width="546" height="776" alt="Screenshot 2025-09-17 112611" src="https://github.com/user-attachments/assets/8eb05681-687d-4007-a6b0-ddc193c376f9" />
+ ![WhatsApp Image 2025-09-25 at 10 50 44_f199d9e4](https://github.com/user-attachments/assets/88e5486e-09bb-4d95-b9b4-862f7fc91c84)
 
 
  ## RESULT
